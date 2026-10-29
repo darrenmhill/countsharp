@@ -72,6 +72,8 @@ ul { padding-left: 20px; }
 .devices h2 { border: 0; padding: 0; font-size: 1.8rem; margin: 0 0 12px; }
 .devices p { color: var(--muted); margin: 0 auto 28px; max-width: 560px; }
 .devices img { width: 100%; max-width: 560px; border-radius: 24px; border: 1px solid var(--border); }
+.watch-shots { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; }
+.devices .watch-shots img { width: 208px; max-width: 42vw; height: auto; border-radius: 44px; border: 6px solid #1c2420; }
 
 .privacy-note { max-width: 680px; margin: 0 auto; padding: 48px 16px; text-align: center; }
 .privacy-note p { color: var(--muted); }
